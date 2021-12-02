@@ -1,4 +1,13 @@
-<h1 align="center">👋, I'm Mike<h1>
+<h1 align="center">Welcome to my profile<h1>
+
+  
+<h3 align"center">Reach out to me<h3>
+
+<p align="center"> 
+  <a href="https://www.linkedin.com/in/mike-jensen-b71b5b172/" target="_blank"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40"/> 
+  </a>
+</p>
 
 <p align= "center">
   <img height= "150" src="https://github-readme-stats.vercel.app/api?username=Shimitan&theme=github_dark&show_icons=true&include_all_commits=true" />
