@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 ![Shimitan's github stats](https://github-readme-stats.vercel.app/api?username=Shimitan&show_icons=true&theme=tokyonight)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AkuraDiary&theme=tokyonight" alt="mystreak"/>
 ![Shimitan's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shimitan&theme=tokyonight&layout=compact)
 
 <!--
