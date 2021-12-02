@@ -1,8 +1,8 @@
 <h1 align="center">👋, I'm Mike<h1>
 
 <p align= "center">
-  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=Shimitan&theme=react&show_icons=true&include_all_commits=true" />
-  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shimitan&theme=react&layout=compact" />
+  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=Shimitan&theme=github_dark&show_icons=true&include_all_commits=true" />
+  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shimitan&theme=github_dark&layout=compact" />
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
