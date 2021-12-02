@@ -14,8 +14,8 @@
   <a href="https://www.w3schools.com/cs/index.php" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/> 
   </a>
-  <a href="https://docs.microsoft.com/en-gb/aspnet/core/blazor/" target="_blank"> 
-    <img src="  https://upload.wikimedia.org/wikipedia/commons/d/d0/Blazor.png" alt="Blazor" width="40" height="40"/> 
+  <a href="https://docs.microsoft.com/en-us/dotnet/" target="_blank"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" alt="dotnetcore" width="40" height="40"/> 
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
